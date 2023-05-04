@@ -1019,3 +1019,12 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 	.string "I have something to show you.\n"
 	.string "Let's go to my LAB.$"
 
+LittlerootTown_EventScript_ChungusSign::
+	lockall
+	msgbox LittlerootTown_EventScript_ChungusSign_Text_0
+	releaseall
+	return
+
+
+LittlerootTown_EventScript_ChungusSign_Text_0:
+	.string "Big big chungus$"
