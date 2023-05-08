@@ -4414,12 +4414,22 @@
     {
       "id": "LAYOUT_PROCCHIO",
       "name": "Procchio_Layout",
-      "width": 40,
-      "height": 40,
+      "width": 55,
+      "height": 55,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/Procchio/border.bin",
       "blockdata_filepath": "data/layouts/Procchio/map.bin"
+    },
+    {
+      "id": "LAYOUT_PERCORSO1",
+      "name": "Percorso1_Layout",
+      "width": 60,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lilycove",
+      "border_filepath": "data/layouts/Percorso1/border.bin",
+      "blockdata_filepath": "data/layouts/Percorso1/map.bin"
     }
   ]
 }
