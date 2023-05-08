@@ -1,0 +1,9 @@
+mapscripts Procchio_MapScripts { }
+
+script Lighthouse_sign{
+
+    lockall
+    msgbox(format("Procchio Lighthouse, built here 200 years ago."))
+    releaseall
+    end
+}
